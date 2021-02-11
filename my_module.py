@@ -8,6 +8,7 @@ while answer != 42:
     time.sleep(0.1)
 print('Hello World!')
 print("Here's something interesting:\n")
+print("Ineterting is not a word")
 # Add lines here, let's make this script do something ineterting!!
 # small comment addition @alejandro
 print('Foo Bar')
